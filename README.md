@@ -58,7 +58,7 @@ interface.launch(share="True")
 ```
 
 ## OUTPUT:
-![i](img3.png)
+![i](https://github.com/DHARSHANV7/genai-chat-llm-gradio/blob/ca9323831d6682a13e6c4a03a7d431308dbe639f/img3.png)
 ![i](img4.png)
 
 
